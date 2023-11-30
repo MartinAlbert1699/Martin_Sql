@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkgray;
+}
+nav{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+   
+}
+
+ul{
+    margin-left: 50%;
+}
+li{
+    color: gray;
+}
+li:hover{
+    color: aqua;
+    cursor: pointer;
+}
+input{
+    width: 60%;
+    padding: 15px;
+}
+.Searchbar{
+    padding: 50px;
+    text-align: center;
+}
+.Box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px; 
+    padding: 20px;
+    margin-block-end: 10px;
+    margin-left: 10px;
+}
+
+.box{
+    margin-left: 70px;
+
+}
+
+#b1:hover{
+    background-color:magenta;
+    color:crimson;
+}
+#b2:hover{
+    background-color: rgb(132, 0, 255);
+    color:deeppink;
+}
+#b3:hover{
+    background-color: royalblue;
+    color:white;
+}
+
+
+h2{
+    color: orangered;
+}
+p{
+    padding-top: 2px;
+}
+.h33{
+    color: maroon;
+}
+.h34{
+    color: black;
+}
+.h35{
+    color: aqua;
+}
+.Contact{
+    background-color: black;
+    color: aliceblue;
+}
